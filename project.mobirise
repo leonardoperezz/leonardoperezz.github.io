@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-10_1635",
-    "currentPage": "photoshop.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -317,7 +317,7 @@
               "family": "MobiriseIcons",
               "link": "",
               "size": 0,
-              "color": "#000000",
+              "color": "#494949",
               "active": true
             }
           },
