@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-10_1635",
-    "currentPage": "Landing Page.html",
+    "currentPage": "Intro.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -221,8 +221,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-f",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-uploads-1413152676137eccd463c-61606b7b-2000x13282.jpg",
