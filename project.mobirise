@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-10_1635",
-    "currentPage": "Personal Gallery.html",
+    "currentPage": "Landing Page.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -723,7 +723,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mlobi-ris-eein-2-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mlobi-ris-eein-2-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "In this peice i made a normal picture of Albert Einstien into 3-D&nbsp;",
                 "active": false
               },
               {
@@ -733,7 +733,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-disc-2-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mobirise-disc-2-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "This is an original idea for an album for Icecube, this is the actual record&nbsp;",
                 "active": false
               },
               {
@@ -743,7 +743,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/somehting-mobirise-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/somehting-mobirise-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "This is a model but she origanally had spots and freckles and we had to make her skin \"perfect\"",
                 "active": true
               },
               {
@@ -753,12 +753,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobiris-esio-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mobiris-esio-2000x1250.jpg",
-                "caption": "Type caption here",
+                "caption": "This final peice is an orginal concept for my school district's logo&nbsp;",
                 "active": false
               }
             ],
             "spacing": 0,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#475577",
             "filterBgColor": false,
@@ -767,7 +767,13 @@
           },
           "_anchor": "gallery1-j",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#3d8eb9",
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_styles": {

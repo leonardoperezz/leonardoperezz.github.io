@@ -613,6 +613,10 @@ h6,
 #header3-1h .mbr-section-subtitle {
   text-align: center;
 }
+#gallery1-j .mbr-gallery-item > div > span {
+  color: #3d8eb9;
+  font-size: 16px;
+}
 #header3-1i .mbr-section-title,
 #header3-1i .mbr-section-subtitle {
   text-align: center;
