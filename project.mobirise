@@ -208,7 +208,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-uploads-1413152676137eccd463c-61606b7b-2000x13282.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1332.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -264,7 +264,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": 5,
+            "timeout": "8",
             "slides": [
               {
                 "active": false,
@@ -568,11 +568,11 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "LEONARDO PEREZ",
           "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">\"Try not to become a man of success, but rather try to become but a man of value.\"</span><br>-Albert Einstien",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Intro.html\" data-toolbar=\"-mbrBtnMove\">COME CHECK IT OUT!</a> "
         },
         {
           "_styles": {
@@ -712,6 +712,12 @@
             "Theme"
           ],
           "_name": "gallery1",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#3d8eb9",
+              "font-size": "16px"
+            }
+          },
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -767,13 +773,7 @@
           },
           "_anchor": "gallery1-j",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "color": "#3d8eb9",
-              "font-size": "16px"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_styles": {
