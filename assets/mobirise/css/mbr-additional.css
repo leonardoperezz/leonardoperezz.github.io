@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -485,6 +486,8 @@ h6,
 }
 #msg-box8-1q .mbr-section-title {
   color: #3d8eb9;
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
 }
 #msg-box8-1q .lead P {
   text-align: left;

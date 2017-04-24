@@ -135,7 +135,10 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#3d8eb9"
+              "color": "#3d8eb9",
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".lead P": {
               "text-align": "left"
@@ -2156,7 +2159,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x11253.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x11250.jpg",
             "bgColor": "#232323",
             "bgColorRadio": false,
             "overlay": true,
